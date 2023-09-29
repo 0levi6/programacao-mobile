@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicativo Bolado</string>
+    <string name="main_icone">Ícone de Avião</string>
+    <string name="tradutor_edt_texto">Digite o texto</string>
+    <string name="tradutor_btn_traduzir">Traduzir</string>
+    <string name="tradutor_txt_titulo">Tradutor para Espanhol Bolado</string>
+    <string name="whats_btn_ola">Olá! Sou Android!</string>
+    <string name="whats_btn_tchau">Tchau!</string>
+</resources>
