@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtvProva</string>
+    <string name="title_home">Personagens</string>
+    <string name="title_dashboard">Filmes</string>
+    <string name="title_notifications">Perfil</string>
+    <string name="personagem_img_foto">Imagem do personagem</string>
+</resources>
